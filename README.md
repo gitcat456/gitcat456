@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Denzel 👋  
 
-<!--
-**gitcat456/gitcat456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | ALX Program | React • Django • Python**  
 
-Here are some ideas to get you started:
+I'm passionate about building impactful solutions in **HealthTech, FinTech, and Education**.  
+Currently focused on **full-stack development** and **scalable web applications**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On 
+- AI-assisted health support system (**EasyAfia+**)   
+
+### 🌱 What I'm Learning
+- Advanced React patterns (hooks, context, Redux)  
+- Backend APIs with Django REST Framework 
+- Deployment & CI/CD pipelines  
+
+### 📫 How to Reach Me
+- Email: (okothdenzel65@gmail.com)  
+- LinkedIn: (https://www.linkedin.com/in/denzel-okoth-2865b9344/)
+
+---
+⭐️ “Building software that makes life easier, one project at a time.”  
