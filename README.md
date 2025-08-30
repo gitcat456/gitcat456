@@ -2,7 +2,7 @@
 
 💻 **Software Engineer | ALX Program | React • Django • Python**  
 
-I'm passionate about building impactful solutions in **HealthTech, FinTech, and Education**.  
+I'm passionate about building impactful solutions in **HealthTech, Business, and Education**.  
 Currently focused on **full-stack development** and **scalable web applications**.  
 
 ---
