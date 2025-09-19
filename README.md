@@ -1,6 +1,7 @@
 # Hi, I'm Denzel 👋  
 
-💻 **Software Engineer | ALX Program | React • Django • Python**  
+Software Dev | ALX Program
+MERN Stack (MongoDB, Express, React, Node.js)  • Django • Python 
 
 I'm passionate about building impactful solutions in **HealthTech, Business, and Education**.  
 Currently focused on **full-stack development** and **scalable web applications**.  
