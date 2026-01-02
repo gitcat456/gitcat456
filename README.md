@@ -12,7 +12,7 @@ Currently focused on **full-stack development** and **scalable web applications*
 - AI-assisted health support system (**EasyAfia+**)   
 
 ### 🌱 What I'm Learning
-- Advanced React patterns (hooks, context, Redux)  
+- System Design 
 - Backend APIs with Django REST Framework 
 - Deployment & CI/CD pipelines  
 
