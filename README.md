@@ -1,4 +1,4 @@
-# Hi there, I'm Denzel you can call me Denz.  
+# Hi there, I'm Denzel.  
 
 Web Dev | ALX Program
 MERN Stack (MongoDB, Express, React, Node.js)  • Django • Python 
