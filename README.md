@@ -1,4 +1,4 @@
-# Hi, I'm Denzel 👋  
+# Hi there, I'm Denzel you can call me Denz.  
 
 Web Dev | ALX Program
 MERN Stack (MongoDB, Express, React, Node.js)  • Django • Python 
@@ -8,7 +8,7 @@ Currently focused on **full-stack development** and **scalable web applications*
 
 ---
 
-### 🚀 What I'm Working On 
+### What I'm Working On 
 - AI-assisted health support system (**EasyAfia+**)   
 
 ### What I'm Learning
