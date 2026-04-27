@@ -11,12 +11,12 @@ Currently focused on **full-stack development** and **scalable web applications*
 ### 🚀 What I'm Working On 
 - AI-assisted health support system (**EasyAfia+**)   
 
-### 🌱 What I'm Learning
+### What I'm Learning
 - System Design 
 - Backend APIs with Django REST Framework 
 - Deployment & CI/CD pipelines  
 
-### 📫 How to Reach Me
+### How to Reach Me
 - Email: (okothdenzel65@gmail.com)  
 - LinkedIn: (https://www.linkedin.com/in/denzel-okoth-2865b9344/)
 
