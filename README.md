@@ -14,7 +14,8 @@ Currently focused on **full-stack development** and **scalable web applications*
 ### What I'm Learning
 - System Design 
 - Backend APIs with Django REST Framework 
-- Deployment & CI/CD pipelines  
+- Deployment & CI/CD pipelines
+- AI & ML
 
 ### How to Reach Me
 - Email: (okothdenzel65@gmail.com)  
