@@ -9,7 +9,7 @@ Currently focused on **full-stack development** and **scalable web applications*
 ---
 
 ### What I'm Working On 
-- AI-assisted health support system (**EasyAfia+**)   
+- AI assisted health support system (**EasyAfia+**)   
 
 ### What I'm Learning
 - System Design 
@@ -19,7 +19,6 @@ Currently focused on **full-stack development** and **scalable web applications*
 
 ### How to Reach Me
 - Email: (okothdenzel65@gmail.com)  
-- LinkedIn: (https://www.linkedin.com/in/denzel-okoth-2865b9344/)
 
 ---
 ⭐️ “Building software that makes life easier, one project at a time.”  
